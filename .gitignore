@@ -1,0 +1,4 @@
+# Local Java runtime, compiled classes, and temporary build artifacts
+/work/
+/out/
+*.class
